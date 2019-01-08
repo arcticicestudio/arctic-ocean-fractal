@@ -1,0 +1,31 @@
+{
+  "name": "arctic-ocean-fractal",
+  "title": "Arctic Ocean Fractal",
+  "version": "0.0.0",
+  "description": "An animated fractal of the arctic ocean",
+  "author": {
+    "name": "Arctic Ice Studio",
+    "email": "development@arcticicestudio.com",
+    "url": "https://arcticicestudio.com"
+  },
+  "homepage": "https://github.com/arcticicestudio/arctic-ocean-fractal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcticicestudio/arctic-ocean-fractal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcticicestudio/arctic-ocean-fractal/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "arctic",
+    "ocean",
+    "fractal",
+    "animation",
+    "svg",
+    "react",
+    "reactjs",
+    "nord",
+    "arcticicestudio"
+  ]
+}

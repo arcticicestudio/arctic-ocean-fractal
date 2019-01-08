@@ -1,0 +1,22 @@
+{
+  "./dist/arctic-ocean-fractal.umd.development.js": {
+    "bundled": 142700,
+    "minified": 118712,
+    "gzipped": 47259
+  },
+  "./dist/arctic-ocean-fractal.umd.js": {
+    "bundled": 142700,
+    "minified": 118712,
+    "gzipped": 47259
+  },
+  "./dist/arctic-ocean-fractal.cjs.development.js": {
+    "bundled": 139161,
+    "minified": 123660,
+    "gzipped": 47573
+  },
+  "./dist/arctic-ocean-fractal.cjs.js": {
+    "bundled": 139161,
+    "minified": 123660,
+    "gzipped": 47573
+  }
+}
